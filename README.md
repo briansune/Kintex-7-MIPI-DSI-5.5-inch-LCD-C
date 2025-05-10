@@ -59,10 +59,6 @@ Please contact via EMAIL: briansune@gmail.com
 
 # Project Resource
 
-Remarks A: From the above experiments and implementations, there are no major differences on MC20902 and resistor-network.
-
-Remarks B: The different between resistor-network and level-shifter is w/ or w/o tri-state on the FPGA out-buffer.
-
 |BPP,FPS,FPGA,Lanes|Resources|
 |:-:|:-:|
 |16,60,K7,4|<img src="./images/K7_16bpp_60fps_5p5inch_4lanes.png">|
